@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "PC-20200119FDVT",
+    "children" : [ {
+      "name" : "10500-MainThread",
+      "children" : [ {
+        "name" : "test_login.TestLogin.test_login_001",
+        "uid" : "bfc03a1f8199d617",
+        "parentUid" : "b6179f9197419d7b0806fcbcc60a7cd9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1654171755745,
+          "stop" : 1654171755780,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login.TestLogin.test_login_002",
+        "uid" : "820d1a57d87ce190",
+        "parentUid" : "b6179f9197419d7b0806fcbcc60a7cd9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654171755782,
+          "stop" : 1654171755783,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login.TestLogin.test_login_003",
+        "uid" : "487f7af871a34fb3",
+        "parentUid" : "b6179f9197419d7b0806fcbcc60a7cd9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1654171755784,
+          "stop" : 1654171755785,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b6179f9197419d7b0806fcbcc60a7cd9"
+    } ],
+    "uid" : "436e95d620ec712f2a7483897c44472a"
+  } ],
+  "name" : "timeline"
+}
